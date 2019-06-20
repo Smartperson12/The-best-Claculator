@@ -1,0 +1,45 @@
+#numberOne{
+border-raduis: 25%;
+border:solid cyan;
+}
+
+#numberTwo{
+border-raduis: 25%;
+border:solid cyan;
+}
+
+#buttonSum{
+background-color: blue;
+color:white;
+}
+
+#buttonSubtract{
+ background-color: blue;
+color:white;
+}
+
+#buttonDivide{
+background-color: blue;
+color:white;
+}
+
+#buttonMultiply{
+background-color: blue;
+color:white;
+}
+
+#buttonSum:hover{
+background-color: black;
+}
+
+#buttonSubtract:hover{
+ background-color: black;
+}
+
+#buttonDivide:hover{
+background-color: black;
+}
+
+#buttonMultiply:hover{
+background-color:black;
+}
